@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="POS Scorecard Tasks" max_length="40" name="x_stje_pos_scoreca_pos_scorecard_tasks" type="collection">
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Store" max_length="32" name="store" reference="core_company" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="store"/>
+        </index>
+    </element>
+</database>

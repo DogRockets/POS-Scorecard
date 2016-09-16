@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_stje_pos_scoreca_pos_scorecard_tasks" label="POS Scorecards" max_length="40" name="x_stje_pos_scoreca_pos_scorecards" type="collection">
+        <element label="Install Date" max_length="40" name="install_date" type="glide_date"/>
+        <element label="Open Date" max_length="40" name="open_date" type="glide_date"/>
+        <element label="Other Issues Reported by Store" max_length="4000" name="other_issues_reported_by_store" type="string"/>
+        <element label="Turnover Date" max_length="40" name="turnover_date" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_stje_pos_scoreca_pos_scorecards">x_stje_pos_scoreca_pos_scorecards</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>PSS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>Thomas.Velardo@signetjewelers.com</sys_created_by>
+        <sys_created_on>2016-09-15 20:45:03</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>743ee88b13b162003cc45f722244b094</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PSS</sys_name>
+        <sys_package display_value="POS Scorecard" source="x_stje_pos_scoreca">0c6de80b13b162003cc45f722244b004</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="POS Scorecard">0c6de80b13b162003cc45f722244b004</sys_scope>
+        <sys_update_name>sys_number_743ee88b13b162003cc45f722244b094</sys_update_name>
+        <sys_updated_by>Thomas.Velardo@signetjewelers.com</sys_updated_by>
+        <sys_updated_on>2016-09-15 20:45:30</sys_updated_on>
+    </sys_number>
+</record_update>
