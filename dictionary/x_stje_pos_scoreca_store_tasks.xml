@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_stje_pos_scoreca_pos_scorecard_tasks" label="Store Tasks" max_length="40" name="x_stje_pos_scoreca_store_tasks" type="collection">
+        <element label="Parent" max_length="32" name="parent" reference="x_stje_pos_scoreca_pos_scorecards" type="reference"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>

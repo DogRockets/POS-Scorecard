@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>Thomas.Velardo@signetjewelers.com</sys_created_by>
         <sys_created_on>2016-09-15 20:41:37</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ae6d648b13b162003cc45f722244b0fb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_stje_pos_scoreca_pos_scorecard_tasks</sys_name>

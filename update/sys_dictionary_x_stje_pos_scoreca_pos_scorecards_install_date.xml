@@ -51,8 +51,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Thomas.Velardo@signetjewelers.com</sys_created_by>
         <sys_created_on>2016-09-16 15:13:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>babbe4572bbd62007559127c17da150c</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6754e55f2bfd62007559127c17da15cc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Install Date</sys_name>
         <sys_package display_value="POS Scorecard" source="x_stje_pos_scoreca">0c6de80b13b162003cc45f722244b004</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="POS Scorecard">0c6de80b13b162003cc45f722244b004</sys_scope>
         <sys_update_name>sys_dictionary_x_stje_pos_scoreca_pos_scorecards_install_date</sys_update_name>
-        <sys_updated_by>Thomas.Velardo@signetjewelers.com</sys_updated_by>
-        <sys_updated_on>2016-09-16 15:13:36</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-09-16 19:20:14</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
